@@ -1,0 +1,11 @@
+.header-main-container {
+  background-color: #181818;
+  height: 15vh;
+  padding: 30px;
+}
+
+.latitude-input {
+  padding: 10px;
+  outline: none;
+  margin-right: 10px;
+}
